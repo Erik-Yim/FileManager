@@ -1,2 +1,2 @@
 # FileManager
-文件企业合并以及FastDFS调用
+文件拆分合并以及FastDFS调用
